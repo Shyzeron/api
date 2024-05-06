@@ -1,7 +1,7 @@
 {
-  "name": "node-auth-boilerplate",
+  "name": "api",
   "version": "1.0.0",
-  "description": "Boilerplate for very basic node + express.js user registration/authentication.",
+  "description": ".",
   "main": "server.js",
   "scripts": {
     "start": "cd server && nodemon server.js"
@@ -12,7 +12,7 @@
     "user authentication",
     "endpoint authentication"
   ],
-  "author": "Yang Lorenzana",
+
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
